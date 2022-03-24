@@ -7,19 +7,20 @@ export default StyleSheet.create({
     backgroundColor: '#ffffff',
   },
   title: {
-    fontSize: 14,
+    fontSize: 28,
   },
   price: {
-    fontSize: 18,
+    fontSize: 24,
     fontWeight: 'bold',
   },
   oldprice: {
-    fontSize: 12,
+    fontSize: 20,
     fontWeight: 'normal',
     textDecorationLine: 'line-through',
   },
   description: {
     marginVertical: 10,
     lineHeight: 18,
+    fontSize: 18,
   },
 });
